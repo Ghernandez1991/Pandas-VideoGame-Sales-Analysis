@@ -104,6 +104,10 @@ Total Purchase Value
 
 
 
+![Image description](https://github.com/Ghernandez1991/Pandas-VideoGame-Sales-Analysis/blob/master/image/image.PNG)
+
+
+
 
 
 Most Profitable Items
