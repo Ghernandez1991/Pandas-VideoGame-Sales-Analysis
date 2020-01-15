@@ -28,7 +28,7 @@ Using the Pandas library, we are able to parse the data and uncover key customer
 
 
 
-8 - Gender Demographics
+8 - Gender Demographics-----------------------------------------------------------------------------------------------------------------
 
 
 A- Percentage and Count of Male Players
@@ -37,7 +37,7 @@ C- Percentage and Count of Other / Non-Disclosed
 
 
 
-9- Purchasing Analysis (Gender)
+9- Purchasing Analysis (Gender)-----------------------------------------------------------------------------------------------------
 The below each broken by gender
 
 A- Purchase Count
@@ -49,7 +49,7 @@ D- Average Purchase Total per Person by Gender
 
 
 
-10 -Age Demographics
+10 -Age Demographics---------------------------------------------------------------------------------------------------------------
 
 
 The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
@@ -64,7 +64,7 @@ D- Average Purchase Total per Person by Age Group
 
 
 
-11- Top Spenders
+11- Top Spenders--------------------------------------------------------------------------------------------------------------------
 
 
 Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
@@ -79,7 +79,7 @@ D- Total Purchase Value
 
 
 
-12- Most Popular Items
+12- Most Popular Items-------------------------------------------------------------------------------------------------------------
 
 
 Identify the 5 most popular items by purchase count, then list (in a table):
@@ -98,7 +98,7 @@ E- Total Purchase Value
 
 
 
-13- Most Profitable Items
+13- Most Profitable Items------------------------------------------------------------------------------------------------------------
 
 
 Identify the 5 most profitable items by total purchase value, then list (in a table):
